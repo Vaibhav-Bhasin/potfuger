@@ -1,2 +1,3 @@
 # POTFUGER
-### Hi! I AM Vaibhav , here I will Post my Python Projects
+### Hi! I AM Vaibhav 
+about: Currently studing in "Convent of Sacred Heart"
