@@ -1,4 +1,4 @@
-# POTFUGER
+# POTFUGER(PERSONAL OPERATING TECHNOLODGY FOR USING IN GAMING AND EDUCATIONAL RESEARCHING)
 ### Hi! I AM Vaibhav .
 about: Currently studing in "Convent of Sacred Heart" in 9th standard.
 
