@@ -8,6 +8,10 @@ My Phone no. is +91 8950051443.
 
 My Github Profile is Vaibhav-Bhasin.
 
+My Instagram Profile is v_bhasin8055.
+
+My Snapchat Profile is v_bahsin8055.
+
 I Love to do coding.
 
 I have learnt Python,Javascript,Html,CSS,C,and SQL.
